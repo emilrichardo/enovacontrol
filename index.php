@@ -33,7 +33,7 @@
       </ul>
     </div>
 
-    <img class="w-100" src="dist/img/banner.jpg" alt="">
+    
 
 
            
@@ -41,6 +41,7 @@
     <!-- Content Header (Page header) -->
     <div class="content-header d-none">
       <div class="container-fluid">
+
         
 
         <div class="row mb-2">
@@ -61,6 +62,7 @@
     <!-- Main content -->
     <div class="content mt-4">
       <div class="container-fluid">
+        <img class="w-100 rounded mb-3" src="dist/img/banner.jpg" alt="">
         <div class="row">
           <div class="col-lg-3 col-6">
             <!-- small box -->
